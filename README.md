@@ -31,4 +31,4 @@ This project focuses on **grounded medical reasoning**, long-context conversatio
 
 
 ### End-to-End MedGPT Walkthrough
-<video src="videos/medgpt_demo.mp4" controls width="700"></video>
+<video src="videos/demo.mp4" controls width="700"></video>
