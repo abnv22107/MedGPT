@@ -28,3 +28,7 @@ This project focuses on **grounded medical reasoning**, long-context conversatio
 ### Medical Image Analysis
 ![Image Analysis Demo](images/imageAnalysis.jpg)
 ![Image Analysis Demo](images/report.jpg)
+
+
+### End-to-End MedGPT Walkthrough
+<video src="videos/medgpt_demo.mp4" controls width="700"></video>
