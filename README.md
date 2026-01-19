@@ -6,7 +6,7 @@ This project focuses on **grounded medical reasoning**, long-context conversatio
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **LangChain-based RAG pipeline**
 - **Conversational RAG** with context memory across turns
@@ -17,19 +17,14 @@ This project focuses on **grounded medical reasoning**, long-context conversatio
 - Clear separation of retrieval, memory, and reasoning logic
 
 ---
-<!-- 
-## 🎥 Demo
+## Demo
 
-> 📌 *Add demo videos and screenshots here (recommended for recruiters)*
+### Text-based Medical Reasoning
+![Chat Demo](images/rag.jpg)
 
-**Suggested structure:**
-- `images/chat_demo.png` – text-based medical chat
-- `images/image_analysis.png` – image-based medical reasoning
-- Loom / YouTube (unlisted) demo links
-
-Example:
-```markdown
-![Chat Demo](images/chat_demo.png)
-![Image Analysis](images/image_analysis.png)
- -->
-
+### Conversational RAG with Context Memory
+![Conversational Demo](images/convoRAG.jpg)
+![Conversational Demo](images/chat.jpg)
+### Medical Image Analysis
+![Image Analysis Demo](images/imageAnalysis.jpg)
+![Image Analysis Demo](images/report.jpg)
