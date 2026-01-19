@@ -17,7 +17,7 @@ This project focuses on **grounded medical reasoning**, long-context conversatio
 - Clear separation of retrieval, memory, and reasoning logic
 
 ---
-
+<!-- 
 ## 🎥 Demo
 
 > 📌 *Add demo videos and screenshots here (recommended for recruiters)*
@@ -31,5 +31,5 @@ Example:
 ```markdown
 ![Chat Demo](images/chat_demo.png)
 ![Image Analysis](images/image_analysis.png)
-
+ -->
 
